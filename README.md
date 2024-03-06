@@ -1,3 +1,3 @@
 # hello_cargo
 
-<https://doc.rust-lang.org/book/ch02-00-guessing-game-tutorial.html#comparing-the-guess-to-the-secret-number>
+<https://doc.rust-lang.org/book/ch03-01-variables-and-mutability.html>
